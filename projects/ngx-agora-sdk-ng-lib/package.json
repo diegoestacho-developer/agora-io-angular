@@ -1,0 +1,33 @@
+{
+  "name": "ngx-agora-sdk-ng",
+  "version": "1.0.0",
+  "homepage": "https://github.com/saeb-panahifar/ngx-agora-sdk-ng",
+  "bugs": {
+    "url": "https://github.com/saeb-panahifar/ngx-agora-sdk-ng/issues"
+  },
+  "peerDependencies": {
+    "@angular/common": "^11.0.0",
+    "@angular/core": "^11.0.0",
+    "agora-rtc-sdk-ng": "^4.1.1"
+  },
+  "dependencies": {
+    "agora-rtc-sdk-ng": "^4.1.1",
+    "tslib": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saeb-panahifar/ngx-agora-sdk-ng.git"
+  },
+  "keywords": [
+    "angular",
+    "library",
+    "agora",
+    "agora-rtc",
+    "agoraio",
+    "video",
+    "conferencing",
+    "typescript"
+  ],
+  "author": "Saeb Panahifar",
+  "license": "MIT"
+}
